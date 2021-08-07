@@ -1,10 +1,6 @@
 # ![Locations](https://github.com/M4nifest0/M4nifest0_WhatsApp/blob/master/s.png) 
 
 
-##### Warning !!
-----------------------
--📌 This tool is not for playing or joking.
-
 ##### Program Features
 ----------------------
 
@@ -22,11 +18,8 @@
 
 -📌 Family Randomization.
 
-
-# How to get a license :
+# Download :
 ----------------------
-- 📌 Send a message to my ID to get the license 👇
-
 - 📌 ID Telegram [@hack4lx](https://t.me/hack4lx)
 
 - 📌 M4nifest0 Black Hat Hacking Team™💪
@@ -46,6 +39,8 @@
 - 📌 2021 💪
 
 - 📌 Version 1.0.0 💪
+
+- 📌 [Download](https://t.me/M4nifest0/469)
 
 # See how it works v1.0.0
 ----------------------
