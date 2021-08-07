@@ -40,7 +40,7 @@
 
 - 📌 Version 1.0.0 💪
 
-- 📌 [Download](https://t.me/M4nifest0/469)
+- 📌 [Download](https://t.me/M4nifest0/470)
 
 # See how it works v1.0.0
 ----------------------
